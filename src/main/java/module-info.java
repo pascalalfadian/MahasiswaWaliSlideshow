@@ -4,4 +4,5 @@ module id.ac.unpar.mahasiswawalislideshow {
 
     opens id.ac.unpar.mahasiswawalislideshow to javafx.fxml;
     exports id.ac.unpar.mahasiswawalislideshow;
+    requires SIAModels;
 }
